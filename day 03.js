@@ -1,4 +1,4 @@
-ar puzzelInput = 277678;
+var puzzelInput = 277678;
 
 function calcSteps(n) {
   var root = Math.ceil(Math.sqrt(n));
